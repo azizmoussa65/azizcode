@@ -1,5 +1,5 @@
 import sys
-from csv_utils import calculate_average
+import calculate_average
 
 def main():
     if len(sys.argv) != 3:
